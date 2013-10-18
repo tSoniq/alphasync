@@ -2,7 +2,7 @@
  *  @brief      Command message handling for Alphasmart devices.
  *
  *
- *  Copyright (c) 2008-2013, tSoniq.
+ *  Copyright (c) 2008-2013, tSoniq. http://tsoniq.com
  *
  *  All rights reserved.
  *

@@ -3,7 +3,7 @@
  *          be used directly as a data source for an NSOutlineView
  *
  *
- *  Copyright (c) 2008-2013, tSoniq.
+ *  Copyright (c) 2008-2013, tSoniq. http://tsoniq.com
  *
  *  All rights reserved.
  *

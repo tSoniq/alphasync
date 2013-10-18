@@ -2,7 +2,7 @@
  *  @brief      Top-level controller for devices. There is a single instance of the controller. It manages
  *              all device plug/unplug events and device enumeration and access.
  *
- *  Copyright (c) 2008-2013, tSoniq.
+ *  Copyright (c) 2008-2013, tSoniq. http://tsoniq.com
  *
  *  All rights reserved.
  *

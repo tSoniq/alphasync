@@ -2,7 +2,7 @@
  *  @brief  Outline view data source wrapper for nodes.
  *
  *
- *  Copyright (c) 2008-2013, tSoniq.
+ *  Copyright (c) 2008-2013, tSoniq. http://tsoniq.com
  *
  *  All rights reserved.
  *

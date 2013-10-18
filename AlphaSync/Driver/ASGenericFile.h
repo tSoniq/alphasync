@@ -3,7 +3,7 @@
  *              a generic XML format, allowing the file to be backed up and restored regardless
  *              of its binary content.
  *
- *  Copyright (c) 2008-2013, tSoniq.
+ *  Copyright (c) 2008-2013, tSoniq. http://tsoniq.com
  *
  *  All rights reserved.
  *

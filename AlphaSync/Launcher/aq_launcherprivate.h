@@ -1,7 +1,7 @@
 /** @file       aq_launcherprivate.h
  *  @brief      Private definitions, used between the launcher application and client access library.
  *
- *  Copyright (c) 2008-2013, tSoniq.
+ *  Copyright (c) 2008-2013, tSoniq. http://tsoniq.com
  *
  *  All rights reserved.
  *

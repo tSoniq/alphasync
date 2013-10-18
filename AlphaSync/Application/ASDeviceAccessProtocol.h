@@ -3,7 +3,7 @@
  *          by the main application to display confirmation dialogues and progress information.
  *
  *
- *  Copyright (c) 2008-2013, tSoniq.
+ *  Copyright (c) 2008-2013, tSoniq. http://tsoniq.com
  *
  *  All rights reserved.
  *

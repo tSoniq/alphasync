@@ -2,7 +2,7 @@
  *  @brief  Generic object container class, using dynamic memory allocation.
  *
  *
- *  Copyright (c) 2008-2013, tSoniq.
+ *  Copyright (c) 2008-2013, tSoniq. http://tsoniq.com
  *
  *  All rights reserved.
  *

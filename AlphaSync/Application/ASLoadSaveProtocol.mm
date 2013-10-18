@@ -3,7 +3,7 @@
  *          by ASNode derivatives to write themselves and their children to disk.
  *
  *
- *  Copyright (c) 2008-2013, tSoniq.
+ *  Copyright (c) 2008-2013, tSoniq. http://tsoniq.com
  *
  *  All rights reserved.
  *
