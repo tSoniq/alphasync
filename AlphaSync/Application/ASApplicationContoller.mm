@@ -134,7 +134,7 @@ static const NSInteger kMenuItemTagBackup   = 100;
 - (void)awakeFromNib
 {
     [outletMainWindow setDelegate:self];
-    [NSApp setDelegate:self];
+//s    [NSApp setDelegate:self];
 
     NSBundle* bundle = [NSBundle mainBundle];
     iconDisconnected = [[NSImage alloc] initWithContentsOfFile:[bundle pathForResource:@"icon-status-clear" ofType:@"pdf"]];
