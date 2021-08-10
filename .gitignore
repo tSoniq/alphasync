@@ -1,9 +1,0 @@
-# Common ignores.
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-
-# Xcode user-specific state
-*.xcuserdatad
