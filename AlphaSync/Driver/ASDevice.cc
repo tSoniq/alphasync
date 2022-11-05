@@ -38,7 +38,7 @@
 #include "ASMessage.h"
 #include "ASApplet.h"
 
-#define kASMProtocolVersion 0x0230          /**< Minimum ASM protocol version that the device must support. */
+#define kASMProtocolVersion 0x0220          /**< Minimum ASM protocol version that the device must support. */
 
 namespace ts
 {
